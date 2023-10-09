@@ -1,0 +1,12 @@
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\bin\Debug\TransferMarket.exe.config
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\bin\Debug\TransferMarket.exe
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\bin\Debug\TransferMarket.pdb
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.csproj.AssemblyReference.cache
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.Properties.Resources.resources
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.csproj.GenerateResource.cache
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.csproj.CoreCompileInputs.cache
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.exe
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.pdb
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.Form1.resources
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.More_InfoAboutPlayer.resources
+D:\AminJohn\_University files\6th_Semester\__Проектирование БД\__КуРаб\TransferMarket\obj\Debug\TransferMarket.AddForm.resources
